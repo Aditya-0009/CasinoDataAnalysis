@@ -1,0 +1,351 @@
+Age,Gender,Income,Education,Location,Frequency_of_visits,Gambling_experience,Types_of_games,Duration_of_play,Winning_history,Alcohol_consumption,Amount_spent
+38,Male,88268,College,Urban,29,11,Baccarat,5,No,Yes,2856.9426449725274
+29,Male,63567,PhD,Urban,22,2,Poker,6,Yes,Yes,2136.165428189544
+42,Male,62613,Masters,Urban,18,11,Blackjack,5,Yes,Yes,3661.955552077932
+31,Male,65891,Masters,Urban,15,10,Craps,7,Yes,Yes,4508.342432103882
+29,Male,41243,Masters,Urban,21,11,Roulette,5,Yes,Yes,3866.8734202617325
+38,Male,61993,PhD,Urban,21,9,Blackjack,6,Yes,Yes,4261.974310934791
+76,Male,75026,Bachelor,Urban,20,1,Poker,151,Yes,Yes,219.08939287950892
+31,Female,68600,College,Urban,19,5,Poker,377,No,Yes,1585.4677163088054
+35,Male,59512,Bachelor,Urban,30,8,Blackjack,5,No,Yes,2607.4032017472537
+21,Female,72620,Bachelor,Urban,29,8,Baccarat,5,Yes,Yes,2108.9689074174084
+44,Male,37089,College,Urban,20,8,Poker,413,Yes,Yes,1200.7214398993665
+28,Female,52230,Masters,Urban,21,7,Baccarat,522,No,Yes,1573.9767849021152
+43,Male,38983,Masters,Urban,17,11,Keno,5,Yes,Yes,4729.883303438448
+42,Male,26921,PhD,Urban,25,7,Video Poker,235,No,Yes,1512.2047780130988
+42,Male,58804,PhD,Urban,30,1,Craps,81,No,Yes,1807.834768039848
+75,Female,87699,Bachelor,Urban,11,3,Craps,591,Yes,Yes,68.3633800625925
+37,Male,90608,College,Urban,20,10,Roulette,6,Yes,Yes,4239.143677675387
+32,Male,57619,College,Urban,21,8,Poker,511,Yes,No,822.4709044877129
+32,Male,27877,High School,Urban,14,3,Blackjack,298,No,Yes,1066.5235864428525
+29,Female,21871,High School,Urban,29,7,Baccarat,261,Yes,No,1313.5593596055267
+28,Male,93135,Bachelor,Urban,21,11,Roulette,5,Yes,Yes,4434.888604031879
+44,Male,22496,PhD,Urban,28,4,Slots,118,No,Yes,1077.9439083191664
+31,Male,67954,Masters,Urban,28,9,Roulette,5,Yes,Yes,4003.764908946211
+36,Male,44675,Masters,Urban,30,9,Baccarat,5,Yes,Yes,4049.8442345983776
+30,Male,51921,Bachelor,Urban,27,12,Poker,7,Yes,Yes,4644.761238142568
+34,Male,20797,College,Urban,26,5,Poker,249,No,Yes,628.0379249714628
+36,Female,69811,High School,Urban,25,6,Slots,195,No,No,1125.530913072265
+29,Male,88755,PhD,Urban,5,10,Keno,6,Yes,Yes,3727.346545799571
+20,Male,72489,College,Urban,22,4,Baccarat,438,Yes,Yes,1026.213156339567
+20,Male,61504,PhD,Urban,28,9,Poker,234,Yes,Yes,1473.3406796734814
+37,Female,69866,PhD,Rural,1,1,Poker,34,Yes,Yes,875.3708215512451
+33,Female,31723,Bachelor,Rural,11,2,Baccarat,204,Yes,Yes,904.848596467494
+32,Male,63890,High School,Urban,27,6,Roulette,7,No,Yes,2439.698528059527
+54,Female,37591,High School,Urban,29,5,Craps,271,No,Yes,592.9311574591447
+28,Female,78146,Masters,Urban,25,2,Blackjack,424,Yes,Yes,1642.40321139493
+31,Female,79300,College,Urban,20,6,Video Poker,5,No,Yes,2161.639852514451
+28,Male,91557,College,Urban,30,1,Roulette,364,Yes,No,177.5225994435977
+18,Male,40006,High School,Rural,24,7,Baccarat,427,Yes,Yes,1978.258596698449
+29,Male,23560,PhD,Urban,25,9,Video Poker,546,Yes,No,521.9154812732176
+26,Male,81713,Masters,Urban,21,9,Craps,5,No,No,2499.223151823483
+35,Male,65444,Masters,Urban,30,9,Keno,6,Yes,Yes,4137.404033357627
+36,Male,66522,PhD,Urban,17,11,Roulette,6,Yes,Yes,4107.199125449755
+32,Female,40737,Masters,Urban,5,5,Video Poker,233,Yes,No,448.22015191013253
+33,Male,48647,PhD,Urban,5,5,Poker,5,Yes,Yes,3026.077400488875
+33,Male,81353,Masters,Urban,21,12,Craps,7,Yes,Yes,4187.212013407529
+25,Male,32134,High School,Urban,30,7,Craps,564,No,Yes,1233.9735101763536
+28,Male,80535,Masters,Urban,28,12,Baccarat,7,Yes,Yes,3821.5362316755154
+44,Male,67883,Masters,Urban,27,9,Poker,7,Yes,Yes,4459.283514927962
+37,Male,83360,College,Urban,22,10,Poker,5,Yes,Yes,4040.3145496301986
+34,Female,71811,Masters,Urban,25,4,Poker,150,Yes,No,581.1401060017474
+21,Female,29781,PhD,Urban,28,9,Craps,381,No,Yes,94.84699763580525
+36,Female,39340,High School,Rural,24,2,Roulette,214,Yes,No,999.0343441131358
+68,Male,47257,Masters,Rural,21,6,Blackjack,140,Yes,Yes,1394.8722603356937
+37,Male,36298,High School,Urban,30,9,Slots,7,Yes,Yes,3100.1058035489996
+30,Female,32372,High School,Urban,30,1,Blackjack,588,No,No,1952.1522174494762
+32,Male,24420,Masters,Urban,30,10,Slots,7,Yes,Yes,3531.8648017742935
+35,Male,82079,College,Urban,26,8,Video Poker,348,No,No,1803.7304772318712
+30,Female,99860,Bachelor,Urban,28,2,Baccarat,323,No,No,814.4058520402715
+30,Male,27012,Masters,Urban,26,8,Blackjack,189,Yes,No,1603.8241479057824
+34,Male,29396,Bachelor,Urban,18,9,Craps,6,Yes,Yes,4433.414343276127
+38,Male,23918,Masters,Urban,25,9,Slots,6,Yes,Yes,4800.744526662979
+59,Male,29359,High School,Rural,22,8,Poker,369,No,No,1083.1974562833825
+29,Male,64259,Masters,Urban,29,9,Baccarat,6,Yes,Yes,3952.9185157709844
+28,Female,43482,Bachelor,Urban,30,7,Blackjack,407,No,No,1403.0762458723598
+36,Male,35127,High School,Urban,26,9,Roulette,6,Yes,Yes,4441.301139985468
+38,Male,57237,Masters,Rural,21,8,Baccarat,328,Yes,No,875.4602059913732
+38,Male,99701,College,Urban,26,6,Keno,7,Yes,Yes,3352.5110201854905
+18,Female,28752,PhD,Urban,29,2,Poker,68,Yes,No,466.8457603302535
+34,Male,91331,Masters,Urban,23,12,Poker,5,Yes,Yes,4870.7719536706545
+29,Male,70624,College,Urban,27,9,Craps,6,Yes,Yes,3524.1444786205957
+35,Male,60133,Bachelor,Urban,27,10,Poker,6,Yes,Yes,4216.987910055172
+37,Male,75153,College,Rural,25,7,Slots,6,No,No,2861.02265249693
+33,Male,82756,PhD,Urban,24,4,Video Poker,5,No,Yes,2416.1761740977668
+32,Male,68682,College,Urban,30,7,Blackjack,7,Yes,Yes,3128.317837402107
+29,Male,86509,Masters,Urban,26,9,Baccarat,7,No,No,2673.2799055621763
+31,Male,95751,College,Urban,24,8,Blackjack,5,No,No,2379.461980618416
+39,Male,96693,Masters,Urban,27,9,Keno,7,Yes,Yes,3815.2881673652405
+28,Male,44777,Bachelor,Rural,21,1,Craps,378,Yes,Yes,938.1041495992858
+35,Female,33824,PhD,Urban,29,8,Blackjack,351,Yes,No,897.3016383680347
+28,Male,22418,College,Urban,24,7,Keno,7,No,No,2193.630543365954
+77,Female,32843,PhD,Urban,25,1,Video Poker,574,Yes,Yes,1637.7021844224828
+84,Male,98778,College,Rural,29,5,Slots,464,No,Yes,422.92578631937795
+32,Male,56223,PhD,Urban,29,10,Slots,7,Yes,Yes,4236.1383601226435
+42,Male,81570,College,Urban,25,12,Video Poker,5,Yes,Yes,3869.433893137031
+31,Male,26521,Bachelor,Rural,13,6,Video Poker,6,No,Yes,2748.420846674683
+33,Male,76894,Bachelor,Urban,12,9,Poker,6,Yes,Yes,4897.656459458626
+41,Male,94659,Masters,Urban,26,9,Blackjack,112,No,Yes,415.37975206055495
+32,Male,34254,College,Urban,29,12,Craps,7,Yes,Yes,3845.013040087981
+18,Male,71939,Bachelor,Urban,24,7,Video Poker,119,No,No,1374.5428611149378
+38,Male,57073,Bachelor,Rural,30,7,Slots,109,Yes,No,1880.574076370607
+38,Male,43310,PhD,Rural,22,5,Craps,143,No,No,1141.442379405093
+48,Male,51785,Bachelor,Urban,23,11,Video Poker,6,Yes,Yes,3961.746985386141
+29,Male,84570,Bachelor,Rural,21,6,Poker,543,Yes,Yes,769.9979276566604
+31,Male,76356,Masters,Urban,26,11,Video Poker,7,Yes,Yes,4208.082653789626
+42,Male,43306,High School,Urban,5,6,Baccarat,5,Yes,Yes,3324.809358737678
+18,Male,56950,PhD,Urban,24,6,Slots,425,No,Yes,348.17448673202654
+34,Male,98696,Bachelor,Urban,27,12,Slots,6,Yes,Yes,4064.3595714207595
+29,Male,98928,High School,Urban,21,10,Baccarat,7,Yes,Yes,3157.3907950067482
+36,Male,99904,High School,Urban,20,9,Video Poker,7,Yes,Yes,4529.66248191279
+36,Male,90838,Bachelor,Urban,29,10,Baccarat,7,Yes,Yes,3756.175416722759
+41,Male,53920,Masters,Urban,6,5,Slots,5,No,No,2827.5485907773855
+34,Male,99128,College,Urban,20,12,Keno,6,Yes,Yes,4190.908544065029
+38,Male,53538,Masters,Rural,16,8,Video Poker,498,No,Yes,1432.358102240958
+44,Male,28286,Bachelor,Urban,29,5,Baccarat,7,Yes,No,2763.4122287804985
+29,Female,38728,PhD,Urban,21,2,Baccarat,49,No,No,1503.4032580268802
+42,Male,33640,College,Urban,30,9,Poker,6,Yes,Yes,4848.621158547927
+31,Female,88627,College,Rural,3,3,Slots,199,Yes,Yes,1169.6716891679316
+81,Female,65663,Bachelor,Rural,28,4,Baccarat,238,No,Yes,127.9042863687894
+43,Male,23912,Bachelor,Urban,15,4,Poker,215,No,Yes,1668.9908905687
+31,Male,70586,PhD,Urban,28,5,Slots,5,No,No,2543.4309376504416
+36,Female,92130,Masters,Urban,30,2,Slots,308,No,No,190.39652443887164
+35,Male,41752,PhD,Urban,21,7,Keno,6,Yes,No,2824.28850781775
+42,Male,79715,Bachelor,Urban,2,12,Slots,7,Yes,Yes,4383.709158658498
+37,Male,27997,PhD,Urban,25,10,Keno,7,Yes,Yes,3538.424362362517
+33,Male,73006,Bachelor,Urban,28,5,Baccarat,5,Yes,Yes,3133.6931987426065
+34,Male,60800,College,Urban,29,12,Video Poker,6,Yes,Yes,4782.010666005844
+28,Male,35620,PhD,Urban,9,12,Video Poker,6,Yes,Yes,4793.482702518424
+41,Male,90381,High School,Urban,22,9,Baccarat,7,Yes,Yes,4136.12844768089
+33,Male,74268,College,Urban,30,6,Blackjack,5,Yes,Yes,3058.3221445599625
+32,Female,89069,High School,Rural,14,8,Video Poker,5,No,No,2464.434569513648
+31,Male,88473,Bachelor,Urban,28,5,Video Poker,35,Yes,Yes,121.92418321992182
+31,Male,62512,High School,Urban,27,5,Poker,5,Yes,Yes,3057.005858471289
+29,Male,39608,Masters,Urban,29,10,Blackjack,7,Yes,Yes,4945.985973016426
+31,Male,90557,Bachelor,Urban,30,11,Craps,6,Yes,Yes,4099.600197618944
+33,Female,37340,High School,Urban,27,2,Poker,557,Yes,No,1735.9929872275422
+36,Female,21913,Bachelor,Urban,20,4,Roulette,34,No,No,802.6327739698891
+31,Male,72086,Masters,Urban,25,10,Video Poker,5,Yes,Yes,3937.099564262321
+28,Male,33429,High School,Urban,26,11,Blackjack,7,Yes,Yes,3732.4922121271206
+35,Male,33907,High School,Urban,21,9,Craps,7,Yes,Yes,4842.891042947558
+38,Male,55489,College,Urban,28,9,Slots,6,Yes,Yes,4380.469691599727
+30,Male,30088,High School,Urban,25,9,Video Poker,7,Yes,No,2800.5299950984167
+38,Female,35588,High School,Urban,11,7,Keno,365,No,No,551.3570224754736
+36,Male,58395,Bachelor,Urban,22,4,Craps,7,Yes,Yes,2449.337681650511
+18,Male,80155,Masters,Rural,25,1,Roulette,247,No,No,1608.7999400603778
+32,Male,58214,PhD,Urban,3,8,Video Poker,6,Yes,Yes,2592.4314086728655
+31,Male,20469,Masters,Urban,26,4,Roulette,129,Yes,Yes,1549.4322171161919
+36,Male,63295,Masters,Urban,25,12,Roulette,5,Yes,Yes,4322.033232929108
+35,Male,94253,High School,Urban,20,10,Poker,7,Yes,Yes,4235.428141864878
+54,Male,54488,PhD,Urban,10,8,Baccarat,285,No,Yes,1617.5619506268354
+30,Male,58040,PhD,Urban,30,5,Baccarat,6,Yes,Yes,3023.9370872011837
+31,Female,36975,Masters,Urban,27,5,Roulette,7,Yes,No,2179.395245313318
+29,Male,35912,Bachelor,Urban,22,9,Baccarat,7,Yes,Yes,4556.018569941296
+28,Female,48086,PhD,Rural,25,7,Craps,310,No,No,977.4364620602978
+38,Male,35115,PhD,Urban,29,11,Slots,7,Yes,Yes,3503.7555888355487
+31,Male,99983,Masters,Urban,20,9,Baccarat,6,Yes,Yes,4859.367295444131
+38,Male,72573,College,Urban,29,7,Poker,73,Yes,No,923.623244487205
+30,Female,84223,PhD,Urban,14,4,Roulette,85,Yes,Yes,1049.7338206998058
+35,Male,31052,Masters,Urban,20,8,Keno,5,Yes,Yes,3489.9399490774367
+33,Male,35741,College,Urban,27,10,Blackjack,6,Yes,Yes,3912.8213490482326
+25,Male,77368,Masters,Urban,8,4,Slots,6,No,No,2484.2272438798755
+48,Male,63986,Masters,Urban,25,8,Blackjack,7,Yes,Yes,3067.9480024782506
+47,Female,25103,Bachelor,Urban,22,9,Roulette,387,No,Yes,1102.7779236185524
+46,Male,55050,High School,Urban,6,9,Craps,6,Yes,No,2415.249854058173
+30,Male,21740,College,Urban,22,5,Roulette,182,Yes,No,610.7652329807387
+34,Male,75270,High School,Urban,26,6,Blackjack,367,No,Yes,1647.0479527644488
+25,Female,32579,College,Urban,28,4,Video Poker,563,No,No,1459.6595399032237
+24,Male,91382,College,Urban,25,7,Roulette,6,Yes,Yes,2256.904955156888
+31,Male,67805,PhD,Urban,25,10,Roulette,6,Yes,Yes,4654.1254931062995
+35,Male,40165,Bachelor,Rural,2,3,Video Poker,375,No,Yes,953.2843502817285
+64,Male,22775,Bachelor,Urban,29,4,Roulette,5,No,No,2042.881243442275
+33,Male,50752,Masters,Urban,20,6,Baccarat,7,Yes,Yes,3097.206234592741
+38,Male,99464,High School,Urban,24,9,Craps,7,Yes,Yes,4741.466998716217
+37,Female,91892,Masters,Urban,24,1,Baccarat,527,No,No,709.0835481020525
+35,Male,53930,Bachelor,Urban,24,11,Poker,7,Yes,Yes,4599.49867676582
+30,Female,66774,Masters,Urban,21,2,Blackjack,253,Yes,Yes,451.2162537386046
+32,Female,48651,Bachelor,Urban,25,3,Slots,6,No,No,2429.6699159433088
+81,Female,82885,Bachelor,Urban,28,6,Blackjack,5,Yes,Yes,2300.2198427908897
+25,Male,35997,College,Rural,24,1,Blackjack,342,No,Yes,1093.5429305920266
+37,Female,85180,Masters,Urban,9,6,Poker,477,Yes,No,1769.925357173445
+28,Male,94498,College,Rural,28,9,Craps,6,No,No,2304.127500974479
+32,Male,83003,Masters,Urban,26,9,Baccarat,7,Yes,Yes,4332.796741407615
+30,Male,54009,Bachelor,Urban,1,11,Slots,6,Yes,Yes,4777.567519599121
+34,Male,63671,Bachelor,Rural,26,6,Slots,6,No,Yes,2624.6915319038762
+29,Male,89939,PhD,Urban,22,9,Poker,7,Yes,Yes,4356.993961957388
+43,Male,37582,College,Urban,26,5,Roulette,5,Yes,Yes,3066.4587717499667
+37,Male,49844,High School,Urban,29,8,Blackjack,55,Yes,Yes,1783.991765488902
+22,Male,58429,Masters,Rural,24,4,Blackjack,102,No,No,1017.2707503365805
+71,Male,96323,High School,Urban,24,9,Slots,6,No,Yes,2101.026542974594
+29,Male,80809,PhD,Rural,23,6,Blackjack,7,Yes,Yes,2643.989623122955
+76,Male,22121,Bachelor,Rural,30,6,Keno,177,Yes,No,276.0041945347117
+29,Female,65353,College,Urban,30,2,Slots,424,No,No,771.913771060711
+46,Male,23886,High School,Urban,9,8,Baccarat,6,Yes,Yes,3020.912898708128
+30,Female,61690,College,Urban,28,3,Baccarat,122,Yes,No,1163.7578936519524
+30,Male,95523,Bachelor,Urban,24,10,Slots,5,Yes,Yes,4200.774984252331
+24,Male,25181,College,Urban,21,1,Poker,486,Yes,Yes,1674.3735590321521
+36,Female,63349,College,Urban,21,2,Blackjack,76,Yes,Yes,568.9293259035918
+38,Male,96578,Masters,Urban,4,1,Craps,257,Yes,Yes,469.4858359987279
+44,Male,62914,High School,Urban,19,9,Craps,5,Yes,Yes,4694.768374282218
+24,Female,90744,PhD,Urban,8,2,Slots,239,Yes,No,634.2005406473019
+35,Female,91713,College,Urban,24,7,Poker,181,No,Yes,747.5033326021971
+38,Male,83720,College,Urban,30,9,Craps,6,Yes,Yes,4326.2064094170355
+34,Female,90399,PhD,Rural,26,9,Craps,211,Yes,No,1308.7262448728527
+30,Male,67394,High School,Urban,4,8,Video Poker,5,Yes,Yes,3346.4594832343596
+35,Male,93925,Bachelor,Urban,29,11,Baccarat,5,Yes,Yes,4092.792150797962
+46,Male,20894,Masters,Urban,22,7,Blackjack,6,Yes,Yes,3061.5535912943596
+31,Male,83413,PhD,Urban,27,11,Blackjack,6,Yes,Yes,4789.568290066854
+47,Male,68208,College,Urban,27,9,Baccarat,5,Yes,Yes,3558.9703513411646
+26,Female,50142,Bachelor,Urban,20,7,Keno,140,Yes,No,608.1199740231087
+38,Male,52904,Masters,Urban,16,6,Video Poker,5,No,No,2814.1296314021056
+38,Male,46813,PhD,Urban,17,9,Roulette,7,Yes,Yes,3605.0233041414604
+35,Male,59041,College,Urban,30,12,Slots,6,Yes,Yes,4025.6977624984625
+25,Male,79601,High School,Urban,9,4,Poker,131,Yes,Yes,186.3000323061617
+37,Male,99224,PhD,Urban,22,9,Poker,5,Yes,Yes,3608.450630593551
+39,Male,88955,College,Urban,5,11,Keno,6,Yes,Yes,4143.129486696184
+36,Male,26004,Bachelor,Urban,22,11,Craps,7,Yes,Yes,3752.8367867799234
+38,Male,55620,PhD,Urban,23,6,Video Poker,5,Yes,Yes,2586.1282709952106
+33,Female,62521,Masters,Rural,22,4,Video Poker,6,No,Yes,2317.2037672895744
+45,Male,77191,High School,Rural,23,9,Craps,5,Yes,Yes,2775.631409983997
+33,Male,77852,PhD,Urban,20,11,Roulette,6,Yes,Yes,3543.9957318415886
+30,Male,42302,PhD,Urban,23,11,Poker,6,Yes,Yes,4618.425738630803
+31,Male,72513,High School,Urban,26,7,Poker,7,Yes,Yes,3104.324292673569
+47,Male,74545,Bachelor,Urban,24,10,Blackjack,6,Yes,Yes,4450.789238753083
+31,Male,40989,Masters,Urban,21,9,Slots,6,Yes,Yes,3527.230817506259
+78,Female,22562,College,Rural,25,3,Video Poker,490,No,Yes,388.26506832229546
+34,Male,42597,Bachelor,Rural,27,7,Blackjack,6,Yes,Yes,2529.099540508028
+30,Male,45484,College,Urban,15,8,Video Poker,398,Yes,No,1474.116846810358
+29,Male,98709,Masters,Urban,21,9,Video Poker,552,Yes,Yes,1467.6253169061415
+35,Male,66402,Bachelor,Rural,23,9,Baccarat,407,No,Yes,1817.8508011690303
+36,Female,31605,PhD,Rural,21,3,Craps,105,Yes,No,1607.9272214023551
+39,Male,85483,Bachelor,Urban,22,5,Blackjack,5,No,Yes,2920.1288242295545
+36,Male,81073,College,Urban,21,8,Roulette,5,Yes,Yes,3439.836849400016
+32,Male,42571,PhD,Urban,23,8,Slots,121,No,Yes,1386.318888679749
+51,Female,74355,High School,Urban,12,6,Roulette,302,No,No,692.3249817134877
+32,Male,53201,Bachelor,Rural,27,8,Slots,349,Yes,No,347.112591275496
+29,Male,98633,Bachelor,Urban,1,10,Slots,5,No,No,2899.9765829012335
+36,Male,64889,PhD,Rural,15,5,Video Poker,545,No,Yes,977.3537459982705
+34,Male,99835,Bachelor,Rural,29,2,Slots,174,No,No,101.78699405722054
+29,Male,36363,PhD,Urban,17,12,Poker,7,Yes,Yes,4648.387165302244
+36,Male,44785,High School,Urban,29,6,Craps,7,Yes,No,2714.8544971119495
+30,Male,75913,Bachelor,Urban,4,8,Blackjack,180,No,Yes,513.6279148724238
+30,Male,83418,College,Urban,25,9,Poker,5,Yes,Yes,4222.459505031053
+32,Male,56736,Bachelor,Urban,20,11,Craps,6,Yes,Yes,4916.853554536085
+24,Female,86576,PhD,Rural,26,3,Poker,6,No,No,2270.5732769877
+31,Female,91786,PhD,Urban,11,2,Blackjack,594,No,Yes,260.32356077888295
+32,Female,77508,College,Urban,25,5,Roulette,374,Yes,Yes,631.8524067425144
+31,Male,27704,College,Rural,4,7,Craps,349,Yes,Yes,1945.195468544798
+37,Male,92308,PhD,Urban,22,11,Slots,5,Yes,Yes,4433.3370553719415
+33,Female,62179,PhD,Urban,21,7,Keno,445,No,No,782.7914624249221
+36,Male,45907,Bachelor,Urban,26,12,Keno,5,Yes,Yes,4128.750965313343
+31,Female,65192,PhD,Urban,27,3,Roulette,328,No,Yes,124.13248808414619
+29,Female,29144,College,Urban,10,9,Keno,6,No,Yes,2314.0740589897646
+31,Male,47741,Bachelor,Urban,26,7,Roulette,7,Yes,Yes,3245.7752703552205
+30,Female,82551,PhD,Urban,25,7,Craps,465,Yes,Yes,348.87843602670216
+28,Male,22195,High School,Urban,16,6,Baccarat,7,Yes,Yes,3093.075615551609
+31,Male,24680,College,Urban,22,12,Craps,7,Yes,Yes,4724.800401274303
+28,Male,75751,High School,Urban,22,6,Poker,375,Yes,No,849.2960273260542
+31,Male,45687,Bachelor,Urban,2,12,Video Poker,7,Yes,Yes,3661.5763460249964
+39,Male,72237,College,Urban,29,5,Slots,6,Yes,Yes,3065.01479482054
+38,Male,58008,Bachelor,Rural,26,8,Blackjack,345,No,No,972.3355476020998
+32,Female,30100,Masters,Rural,24,1,Roulette,184,No,Yes,80.70690281136184
+32,Male,80343,College,Urban,15,5,Baccarat,446,Yes,No,101.96745265424767
+38,Male,63723,Bachelor,Urban,23,12,Baccarat,7,Yes,Yes,2683.8574254015416
+35,Male,74180,High School,Urban,25,12,Roulette,6,Yes,Yes,4716.758077327908
+48,Male,77625,Bachelor,Urban,4,6,Keno,6,Yes,Yes,3245.28762860469
+33,Male,65856,PhD,Urban,29,12,Craps,7,Yes,Yes,3585.784239154031
+37,Male,97582,PhD,Urban,7,7,Craps,6,Yes,Yes,2500.643582906567
+37,Male,40950,High School,Urban,18,5,Craps,6,No,No,2930.3502660411204
+36,Male,29500,Bachelor,Urban,29,8,Roulette,395,Yes,No,681.5286730363958
+37,Male,72548,College,Urban,23,10,Craps,5,Yes,Yes,4390.262070983123
+37,Male,66614,High School,Urban,20,10,Keno,7,Yes,Yes,3821.932934550578
+29,Male,43418,Bachelor,Urban,30,11,Baccarat,6,Yes,Yes,4991.0848165808175
+19,Male,69747,Masters,Urban,24,1,Poker,45,Yes,Yes,1529.7380130502343
+36,Male,53415,PhD,Urban,20,1,Craps,232,Yes,Yes,1179.747393040395
+57,Female,32232,High School,Urban,21,2,Baccarat,115,Yes,Yes,669.5502069086475
+36,Male,36957,Bachelor,Urban,28,9,Baccarat,6,Yes,Yes,4828.847717899331
+34,Male,77600,Masters,Urban,22,12,Baccarat,5,Yes,Yes,3921.3910865586254
+35,Female,47784,PhD,Rural,23,6,Video Poker,500,No,Yes,873.3068379122116
+38,Male,64239,Masters,Urban,28,8,Poker,5,No,No,2785.798031985659
+30,Female,59335,High School,Urban,26,2,Poker,7,No,No,2098.15262993302
+34,Female,57212,Bachelor,Urban,27,2,Keno,42,Yes,No,799.8557386406544
+50,Female,72141,Masters,Rural,30,4,Craps,249,Yes,No,852.2612758983291
+33,Male,82746,Masters,Urban,25,9,Poker,6,Yes,Yes,4825.185896638578
+32,Male,53354,Masters,Urban,29,4,Blackjack,461,Yes,Yes,1565.5821282906336
+36,Male,99668,College,Urban,24,11,Blackjack,7,Yes,Yes,4716.133916485428
+29,Male,74254,Masters,Urban,23,1,Keno,64,Yes,No,430.2822543220764
+49,Female,27601,Bachelor,Urban,23,3,Blackjack,6,No,Yes,2330.9750593512936
+28,Female,47867,Bachelor,Urban,21,5,Keno,202,No,No,691.6142901579625
+28,Female,31059,Bachelor,Urban,26,5,Blackjack,270,No,No,73.69755694380224
+29,Male,86275,PhD,Urban,22,7,Slots,5,No,Yes,2791.142064845079
+28,Male,41266,Masters,Urban,25,1,Slots,228,No,No,619.7852414661576
+36,Male,25410,High School,Urban,29,12,Craps,7,Yes,Yes,3624.0214281217145
+31,Male,68691,PhD,Urban,22,11,Slots,6,Yes,Yes,3511.6854823990616
+31,Female,68798,College,Rural,26,7,Roulette,423,Yes,No,922.8478919492213
+31,Male,89434,Bachelor,Urban,3,12,Slots,6,Yes,Yes,4711.623609164308
+48,Male,38231,College,Urban,20,10,Video Poker,5,Yes,Yes,3619.1648717408234
+76,Female,29724,PhD,Urban,21,8,Craps,423,Yes,Yes,1524.9528075768033
+36,Male,43314,College,Urban,23,10,Video Poker,7,Yes,Yes,3560.7071315564135
+37,Male,86477,PhD,Urban,21,11,Video Poker,6,Yes,Yes,3679.0642971735115
+38,Female,47479,College,Rural,25,9,Roulette,140,No,Yes,1744.0203396922548
+29,Female,45025,Bachelor,Rural,29,9,Baccarat,194,No,Yes,1909.163384184223
+37,Male,31590,Masters,Urban,14,3,Slots,314,Yes,No,1833.5866355337441
+34,Male,74762,Bachelor,Urban,27,5,Video Poker,6,Yes,Yes,3108.2707182326753
+44,Male,96853,Bachelor,Urban,14,10,Keno,7,Yes,Yes,4507.030225373888
+37,Female,94544,Bachelor,Rural,21,9,Poker,171,No,Yes,907.3065193315088
+42,Male,51838,Masters,Urban,22,10,Craps,7,Yes,Yes,4382.238068689776
+28,Female,38491,Bachelor,Urban,28,8,Blackjack,544,No,Yes,186.88312470144538
+38,Male,34672,PhD,Urban,19,12,Roulette,7,Yes,Yes,3318.676050092201
+34,Female,31834,College,Rural,28,5,Craps,7,No,Yes,2101.4724222889863
+29,Male,82570,Masters,Urban,13,9,Baccarat,7,Yes,Yes,3972.853106200753
+33,Male,93929,High School,Urban,22,10,Slots,6,Yes,Yes,3619.9306590079696
+29,Male,76620,PhD,Urban,26,5,Blackjack,5,No,Yes,2432.543068018569
+31,Male,67993,Masters,Urban,21,6,Poker,6,Yes,Yes,3243.1364044267625
+36,Male,87398,College,Rural,26,8,Baccarat,7,No,Yes,2539.7864196146375
+33,Male,86439,Masters,Urban,29,9,Craps,7,Yes,Yes,4073.0258522282306
+35,Female,35352,PhD,Rural,26,5,Poker,6,Yes,No,2406.615730542748
+31,Male,84022,PhD,Urban,28,8,Slots,7,No,No,2645.631573110684
+28,Male,34297,High School,Urban,29,6,Roulette,227,No,Yes,1296.0863254149424
+33,Male,25896,Bachelor,Urban,28,10,Baccarat,5,Yes,Yes,3044.962933211838
+23,Female,32003,College,Rural,20,5,Slots,157,No,Yes,1549.3788029156835
+43,Male,93478,PhD,Rural,1,5,Slots,7,Yes,Yes,2907.5558719877613
+33,Female,43761,PhD,Urban,21,1,Roulette,113,Yes,Yes,889.9066720916459
+37,Male,62439,College,Urban,30,3,Roulette,92,Yes,Yes,845.3814297386447
+35,Female,72280,PhD,Urban,28,6,Slots,6,No,Yes,2114.297218900368
+69,Male,56589,High School,Rural,5,6,Roulette,7,Yes,No,2168.7660224470856
+28,Male,28472,High School,Urban,23,4,Baccarat,196,Yes,No,1383.150283966977
+37,Male,86564,Bachelor,Urban,15,1,Video Poker,61,No,No,707.4138319650241
+38,Female,55428,Masters,Urban,25,1,Keno,412,Yes,No,244.09216910879042
+75,Female,82444,College,Rural,30,2,Roulette,51,Yes,Yes,174.8975450746899
+38,Female,87889,High School,Urban,30,3,Baccarat,522,Yes,No,1394.1739355320547
+29,Male,27734,High School,Urban,20,2,Slots,6,No,No,2342.1839613514976
+33,Male,48436,High School,Urban,15,9,Blackjack,6,Yes,Yes,3644.904242465329
+32,Male,43905,High School,Urban,25,2,Slots,7,No,No,2406.624341184253
+32,Male,46981,Bachelor,Urban,8,12,Keno,7,Yes,Yes,4525.051556204645
+32,Male,96473,PhD,Urban,23,4,Craps,283,Yes,Yes,230.34745529817366
+25,Female,65463,High School,Urban,25,5,Video Poker,309,Yes,No,944.2700766261399
+80,Male,86589,Bachelor,Urban,24,4,Slots,152,Yes,No,1731.656161862115
+40,Male,39361,Masters,Urban,21,7,Slots,6,Yes,No,2908.6061309223564
+42,Male,41875,PhD,Urban,27,12,Baccarat,7,Yes,Yes,4277.053404224924
+34,Male,56661,Masters,Urban,4,3,Blackjack,66,Yes,Yes,1789.509084834962
+19,Male,22679,PhD,Urban,21,4,Roulette,542,No,Yes,1382.5534010467882
+29,Female,96723,PhD,Rural,30,7,Poker,97,No,Yes,356.35138577233397
+29,Male,90486,PhD,Urban,27,9,Keno,5,Yes,Yes,4121.461637255524
+38,Male,51222,Bachelor,Rural,28,4,Baccarat,46,Yes,No,1935.3583165229695
+29,Male,88201,College,Urban,26,9,Slots,6,Yes,No,2885.1828899637335
+36,Male,50857,Masters,Urban,29,12,Craps,7,Yes,Yes,4924.608742597449
+30,Male,59606,PhD,Urban,27,4,Slots,263,No,Yes,63.90254714116678
+28,Female,20851,PhD,Rural,3,4,Poker,515,No,Yes,769.9781964593866
+34,Male,25028,High School,Urban,20,10,Roulette,7,Yes,Yes,3912.608843045718
+37,Male,40177,High School,Urban,17,11,Video Poker,7,Yes,Yes,4035.3810517787974
+38,Male,59920,Bachelor,Urban,24,9,Blackjack,6,Yes,Yes,3863.782661862048
+38,Male,75082,PhD,Rural,27,7,Craps,6,No,Yes,2708.144510662005
+28,Male,94305,Masters,Urban,28,9,Slots,6,Yes,Yes,4901.351478714037
+58,Female,42036,Masters,Urban,17,9,Poker,6,No,Yes,2011.1135719768367
+29,Male,58212,High School,Urban,21,6,Craps,7,Yes,Yes,3035.6307283098145
+24,Female,54735,High School,Rural,30,8,Craps,506,No,Yes,363.6765725167991
+77,Male,21384,College,Urban,27,2,Slots,7,No,Yes,2084.8037996912353
+32,Male,99403,PhD,Urban,20,9,Keno,7,Yes,Yes,3632.3848558240225
+31,Female,85599,PhD,Urban,30,3,Poker,110,Yes,Yes,1231.7572618149616
+33,Male,89524,High School,Urban,27,11,Video Poker,7,Yes,Yes,4727.955988561994
+36,Male,71654,High School,Urban,24,5,Video Poker,7,Yes,Yes,3449.577669834281
